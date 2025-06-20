@@ -182,7 +182,7 @@ footer_game = tk.Label(game_frame, text="Made by Hemant", font=("Helvetica", 14)
 footer_game.pack(side=tk.BOTTOM, pady=10)
 
 # --------------------------- GAME STARTUP ---------------------------
-words = ["python", "intern", "hangman", "project", "coding"]
+words = ["knife", "kid", "television", "python", "coding"]
 word = ""
 guessed = []
 guessed_letters = []

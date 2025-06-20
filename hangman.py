@@ -7,7 +7,7 @@ def play_hangman():
     print("=== Welcome to Hangman ===")
     print("Made by Hemant\n")
 
-    words = ["python", "intern", "hangman", "project", "coding"]
+    words = ["knife", "kid", "television", "python", "coding"]
     word = random.choice(words)
     guessed_letters = []
     max_attempts = 6
